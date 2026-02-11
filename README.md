@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <title>Étterem</title>
-</head>
-<body>
+  <head>
+      <meta charset="UTF-8">
+      <title>Étterem</title>
+  </head>
+ <body>
 
-<h1><b>Finom Étterem</b></h1>
+  <h1><b>Finom Étterem</b></h1>
 
-<h2>Kategóriák</h2>
+   <h2>Kategóriák</h2>
 <ul>
     <li>Levesek</li>
     <li>Főételek</li>
-</ul>
+   </ul>
 
-<h2>Levesek</h2>
+  <h2>Levesek</h2>
 <ol>
     <li>Gulyásleves</li>
     <li>Húsleves</li>
@@ -24,7 +24,7 @@
 <ul>
     <li>Rántott hús
     <li>Krumplival</li>
-        </u1>
+        
     </li>
 </ul>
 
@@ -56,6 +56,11 @@
         <td>Rántott hús</td>
     </tr>
 </table>
+
+</body>
+</html>
+
+
 
 </body>
 </html>
